@@ -1,0 +1,19 @@
+table, tr, td{
+    border-collapse: collapse;
+    text-align: right;
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+    vertical-align: bottom;
+    horiz-align: right;
+}
+table{
+    width: 100%;
+}
+tr, td{
+    height: 50px;
+    vertical-align: bottom;
+}
+td{
+    text-align: right;
+}
